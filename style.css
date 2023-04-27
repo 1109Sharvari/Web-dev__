@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background: url(https://images.unsplash.com/photo-1537420327992-d6e192287183?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fEJhY2tncm91bmR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60);
+    border: blanchedalmond;
+    box-sizing: border-box;
+}
+
+button {
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px soli black;
+    border-radius: 9px;
+    cursor: pointer;
+    color: blueviolet;
+    background-color: bisque;
+}
+
+.row {
+    margin: 8px 0;
+}
+
+.row input {
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 38px;
+    border: 2px solid black;
+    border-radius: 5px;
+    border-color: aqua;
+    box-sizing: border-box;
+}
+
+.text-centre{
+    color: brown;
+    font-size: 50px;
+}
